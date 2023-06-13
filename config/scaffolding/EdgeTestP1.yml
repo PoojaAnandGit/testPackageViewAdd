@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeTestP1
+  gitServerName: p1
+  gitUrl: https://github.com/PoojaAnandGit/testPackageViewAdd
+  gitUsername: PoojaAnandGit
+  gitToken: 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
+  gitBranch: master
